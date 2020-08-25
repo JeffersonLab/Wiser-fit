@@ -5,6 +5,10 @@ To install
 `cd Wiser-fit` 
 `make`
 
+> ratios
+
+`E_beam,THETA_e,E_e,Q2,X,W2,PI-2E,K+2pi+,K-2pi-,DSIGX,SIGPIP,SIGPIM,SIGKAP,SIGKAM (last4 x-sections)
+
 
 
 `!------------------------------------------------------------------------------`
@@ -32,5 +36,8 @@ To install
 `! SIGMA      is output cross section in nanobars/GeV-str`
 
 `!------------------------------------------------------------------------------`
-
+ 
+ The code provided by Peter Bosted. The reference should be to Wiser's PhD thesis, as the data
+were never published.  The actual fit and coding were done by Steve Rock and George
+Chang in about 1982 or so. It was intended to be used by anyone who wanted it.
 
