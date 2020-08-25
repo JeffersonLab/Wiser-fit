@@ -9,8 +9,11 @@ To install
 
 `!------------------------------------------------------------------------------`
 ` Calculate pi,K,p  cross section for electron beam on a proton target`
+
 `! IntegrateQs over function WISER_FIT using integration routine QUADMO`
+
 `! E0         is electron beam energy, OR max of Brem spectra`
+
 `! P,E       is scattered particle  momentum,energy`
 `! THETA_DEG  is kaon angle in degrees`
 `! RAD_LEN (%)is the radiation length of target, including internal`
